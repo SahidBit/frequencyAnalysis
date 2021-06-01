@@ -71,7 +71,7 @@ import java.lang.String;
 	
 	      System.out.println();
 	      System.out.println("..............................................");
-          System.out.println("Replacing digraphs based on frequency");
+          System.out.println("Replacing Cipher text based on frequency");
 	    }
 	}
 
